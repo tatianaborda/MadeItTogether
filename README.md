@@ -79,9 +79,6 @@ Upon completing missions, users can claim their deposit back through the automat
 
 - **Smart Contracts**: Solidity
 - **Blockchain**: Ethereum
-- **Frontend**: [Add your frontend tech]
-- **Backend**: [Add your backend tech]
-- **Web3 Integration**: [Add Web3 libraries used]
 
 ---
 
